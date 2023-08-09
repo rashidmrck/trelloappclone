@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_server/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_server/build" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_server/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/windows/flutter/ephemeral/.plugin_symlinks/connectivity_plus/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/windows/flutter/ephemeral/.plugin_symlinks/connectivity_plus/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/windows/flutter/ephemeral/.plugin_symlinks/connectivity_plus/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/windows/flutter/ephemeral/.plugin_symlinks/connectivity_plus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/windows/flutter/ephemeral/.plugin_symlinks/connectivity_plus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/windows/flutter/ephemeral/.plugin_symlinks/connectivity_plus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_client/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_client/build" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_client/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/trelloappclone_flutter/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
